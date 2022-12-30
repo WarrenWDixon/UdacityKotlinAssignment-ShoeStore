@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="say_goodbye_to_amazon_com">Say Goodbye To Amazon.com!</string>
+    <string name="welcome_to_the_shoe_store">Welcome To The Shoe Store!</string>
+    <string name="continue_text">Continue</string>
+    <string name="add_item">Add Item</string>
+</resources>
